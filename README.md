@@ -107,23 +107,7 @@ To run this application locally, please follow these steps:
     streamlit run app.py
     ```
 
-    The application will automatically open in your web browser (typically at `http://localhost:8501`).
-
-## Deployment
-
-This application is designed for straightforward deployment on Streamlit Community Cloud, offering a simple public link for testing.
-
-1.  **Upload all project files** (`app.py`, `requirements.txt`, `packages.txt`, `README.md`) to a public GitHub repository.
-
-2.  **Navigate to [share.streamlit.io](https://share.streamlit.io/)** and log in with your GitHub account.
-
-3.  **Click "New app"** and select your repository.
-
-4.  **Ensure the "Main file path" is set to `app.py`**.
-
-5.  **Click "Deploy!"**.
-
-6.  Once deployed, a public URL will be provided for accessing the application.
+    The application will automatically open in your web browser (typically at `http://localhost:8501`).    
 
 ## Conclusion
 
